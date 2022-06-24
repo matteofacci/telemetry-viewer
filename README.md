@@ -24,7 +24,7 @@ Then a standalone application on matlab created with the appropriate tool, start
 The version of MATLAB used was the R2021b.
 
 
-## Matlab instructions
+## MATLAB instructions
 
 * Once the program is started, a file selection screen will open, from which you will be able to choose one or more files of type .csv
 * Wait for the plots to open (one for each chosen .csv file), the commands for the plots are the same as in MATLAB. If more than one variable is chosen to be showed, an additional window will open containing the stacked plots.
