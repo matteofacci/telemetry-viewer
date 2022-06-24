@@ -46,3 +46,5 @@ In the TelemetryViewer sheet:
 5. The dark mode and light mode keys change the background colors of the graph
 
 The Data sheet contains the table containing all the data of the csv file from which the chart in the previous sheet is generated
+
+https://user-images.githubusercontent.com/61707543/175615695-4288daec-ddd1-46df-8cc6-329e3adaf9fb.mp4
