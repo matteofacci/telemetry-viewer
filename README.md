@@ -17,7 +17,7 @@ In particular telemetry files must have the first row as headers and labels, and
 | 1.5 | 2.132 | 201.12 |
  
  
-As fast telemetry analysis mainly Excel has been used, with ad hoc visual basic functions for a fast usage and a quick plot of the data during our tests on track.
+As fast telemetry analysis mainly Excel has been used, with ad hoc Visual Basic functions for a fast usage and a quick plot of the data during our tests on track.
 
 Then a standalone application on MATLAB, created with the appropriate tool starting from the file contained in the repo, has been used for a more detailed analysis and the possibility of working directly on the plotted data.
 
